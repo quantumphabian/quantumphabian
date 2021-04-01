@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fabian Leon or @quantumphabian
+- 👀 I’m interested in molecular and quantitative plant breeding 
+- 🌱 I’m currently learning about genomic selection and how to apply it to sorghum breeding
+- 📫 How to reach me: fabian.leon@tamu.edu
